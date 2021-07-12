@@ -1,7 +1,7 @@
 # softcifar
 
 
-A dataset based on [CIFAR-10 images]{https://www.cs.toronto.edu/~kriz/cifar.html}. 
+A dataset based on [CIFAR-10 images](https://www.cs.toronto.edu/~kriz/cifar.html). 
 
 ## License
 
